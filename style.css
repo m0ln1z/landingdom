@@ -41,16 +41,17 @@ span.x4:before, i.x4:before
 
 
 .contact {
-    padding: 60px 0; 
-    background-color: #f9f9f9; 
-    text-align: center; 
+    padding: 60px 0;
+    background-color: rgb(0, 0, 0);
+    text-align: center;
 }
+
 
 .contact h4 {
     font-family: 'Roboto Slab', serif;
     font-size: 28px;
     margin-bottom: 20px;
-    color: #333;
+    color: #ffffff;
 }
 
 
@@ -58,7 +59,7 @@ span.x4:before, i.x4:before
     font-family: 'Raleway', sans-serif;
     font-size: 18px;
     margin-bottom: 15px;
-    color: #555;
+    color: #ffffff;
 }
 
 .social-links {
@@ -71,7 +72,7 @@ span.x4:before, i.x4:before
     display: flex; 
     align-items: center; 
     margin: 0 15px; 
-    color: #000; 
+    color: #fffdfd; 
     text-decoration: none;
     font-family: 'Raleway', sans-serif;
     font-size: 18px;
@@ -207,7 +208,7 @@ header .container-fluid
 {
     padding-top: 3em;
     padding-bottom: 3em;
-    background-color: rgba(128, 215, 247, 0.660);
+    background-color: rgba(13, 12, 14, 0.66);
 }
 
 .opaline h1,
@@ -236,7 +237,7 @@ header .container-fluid
 
 .story .container-fluid
 {
-    background-image: url('https://unsplash.it/3000/2000?image=531');
+    background-image: url('https://img.freepik.com/free-photo/view-modern-construction-site_23-2151317315.jpg?t=st=1729369253~exp=1729372853~hmac=cbf66bbaf00ed6ff4794546398e211a7294ca766f9054dd3dae1386dfec1af50&w=2000');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
